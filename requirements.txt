@@ -1,4 +1,6 @@
 beautifulsoup4
+chromadb
+python-decouple
 langchain
 langchain-community
 langchain-anthropic
